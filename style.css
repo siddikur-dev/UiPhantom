@@ -76,6 +76,12 @@ header {
     padding-bottom: 30px;
 }
 
+.font-size{
+font-size: 40px;
+font-weight: bold;    
+}
+
+
 /*shared style */
 
 .h2-tag{
@@ -96,4 +102,8 @@ header {
 .flex {
     align-items: center;
     display: flex;
+}
+
+.m-bottom{
+    margin-bottom: 130px;
 }
