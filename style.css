@@ -12,6 +12,7 @@
 * {
     max-width: 1520px;
     margin: auto;
+    
 }
 
 
@@ -53,34 +54,29 @@ header {
     font-weight: 700;
     padding-top: 150px;
     text-align: center;
-    /*height: 158px
-    padding-top: 290px;
-    padding-left: 320px;
-    margin: 0;
-    padding-bottom: 10px; */
 }
 
-.span-primary {
-    color: rgba(255, 0, 0, 0.514);
-}
 
-.header-description {
-    width: 691px;
-    height: 56px;
-    color: rgba(255, 255, 255, 0.377);
-    font-family: Inter;
-    margin-left: 300px;
-    font-size: 18px;
-    text-align: center;
-    margin-top: 0;
-    padding-bottom: 30px;
-}
 
 .font-size {
     font-size: 40px;
     font-weight: bold;
 }
 
+/* form */
+.form-style {
+    box-sizing: border-box;
+    border: 2px solid rgb(214, 221, 237);
+    border-radius: 10px;
+    padding: 20px 32px 20px 32px;
+    width: 400px;
+    margin: 8px 0px;
+}
+
+.border-outline {
+    /* border: none; */
+    outline: none;
+}
 
 /*shared style */
 
