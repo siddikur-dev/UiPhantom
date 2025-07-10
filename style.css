@@ -76,15 +76,15 @@ header {
     padding-bottom: 30px;
 }
 
-.font-size{
-font-size: 40px;
-font-weight: bold;    
+.font-size {
+    font-size: 40px;
+    font-weight: bold;
 }
 
 
 /*shared style */
 
-.h2-tag{
+.h2-tag {
     font-size: 42px;
     font-weight: 800;
 }
@@ -104,6 +104,6 @@ font-weight: bold;
     display: flex;
 }
 
-.m-bottom{
+.m-bottom {
     margin-bottom: 130px;
 }
