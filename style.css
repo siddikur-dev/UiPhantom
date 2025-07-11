@@ -4,7 +4,7 @@
     font-family: "Raleway", sans-serif;
 }
 
-.logo-font {
+.inter-font {
     font-family: "Inter", sans-serif;
 }
 
@@ -14,6 +14,7 @@
     margin: auto;
 
 }
+
 
 
 
@@ -46,7 +47,31 @@
     font-weight: bold;
 }
 
+/* main */
+.productive-user-sec {
+    background-color: #4E47FF1A;
+    width: 1000px;
+    border-radius: 24px;
+    padding: 40px;
+}
 
+.productive-user-font-size {
+    font-size: 54px;
+}
+
+.user-says {
+    width: 350px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.ready-to-focus-sec {
+    width: 1140px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+}
 
 /* form */
 .form-style {
@@ -104,4 +129,19 @@
 .short-description {
     padding: 20px 0px;
     opacity: 70%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.anchor-tag {
+    padding: 0px 12px;
+    text-decoration: none;
+    padding: 0px 12px;
+    text-decoration: none;
+    padding: 0px 12px;
+    text-decoration: none;
+    padding: 0px 12px;
+    text-decoration: none;
 }
