@@ -100,3 +100,8 @@
 .m-bottomm {
     margin-bottom: 160px;
 }
+
+.short-description {
+    padding: 20px 0px;
+    opacity: 70%;
+}
