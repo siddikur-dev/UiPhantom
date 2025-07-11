@@ -39,10 +39,8 @@ header {
 
     background: url(./Assets/Hero-bg.png);
     width: 100%;
-    height: 100vh;
+    padding-bottom: 160px;
     background-size: cover;
-    border-radius: 10px;
-
     background-repeat: no-repeat;
 
 }
@@ -61,6 +59,12 @@ header {
 .font-size {
     font-size: 40px;
     font-weight: bold;
+}
+
+/* main */
+main {
+    
+    /* background: linear-gradient(0.00deg, #9403FD, #00ADFE 4%) */
 }
 
 /* form */
